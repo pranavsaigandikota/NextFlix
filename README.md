@@ -1,6 +1,6 @@
 # 🎬 NextFlix - Movie Discovery & Watchlist App
 
-![NextFlix Screenshot](projects/nextflix.png)
+![NextFlix Banner](assets/banner.png)
 
 **NextFlix** is a movie discovery app built with **React Native** and **Expo** that allows users to:
 
